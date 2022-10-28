@@ -33,9 +33,9 @@ I currently live in **Bergamo**, working @ **HarnekInfo**, primarly developing i
 </p>
 
 ## 💾 Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+<p align="left">  
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ## ⚙️ IDE & Editors
