@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Giuseppe
+#### 👨🏻‍💻 FullStack developer
+![👨🏻‍💻 FullStack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**GMartinelli96/GMartinelli96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Giuseppe from Italy, and I am a FullStack developer currently working @ HarnekInfo. 
+I primarly develop in VB.NET, Javascript and SQL, but I really enjoy learning new frameworks and features.
+I also enjoy learning and understanding the full life cycle of the code 
 
-Here are some ideas to get you started:
+Skills: VB.NET / SQL / JS / HTML / CSS / NEXTJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on TScore, my personal project for managing sports tournements. 
+- 🌱 I’m currently learning T3 stack 
+- 📫 How to reach me: martinelligiuseppeissr96@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gmartinelli96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/giuseppe-martinelli/)  
+
