@@ -1,8 +1,6 @@
 
 # Hi, I'm Giuseppe 👋 💻 ⚽🏋🏻‍♂️
 
-<img src="https://github.com/GMartinelli96/GMartinelli96/blob/main/Banner.png" alt="Giuseppe Martinelli - fullstack developer">
-
 I'm a **FullStack developer** and I'm passionate about **coding** and everything related.
 I currently live in **Bergamo**, working @ **HarnekInfo**, primarly developing in VB.NET, JS and SQL. I enjoy learning and understanding the full life cycle of coding.
 
