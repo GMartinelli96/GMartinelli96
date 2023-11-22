@@ -7,7 +7,7 @@ I currently live in **Bergamo**, working @ **HarnekInfo**, primarly developing i
 ## ✨ Current situation
 
 - 🔭 I’m currently working as Fullstack Developer at HarnekInfo (Italy)
-- 🌱 I’m currently learning React/Typescript, NextJS and T3-Stack
+- 🌱 I’m currently learning Docker, C# and I'm deepening my knowledge of NextJS.
 - ⚽🏋🏻‍♂️ Sport fact: I am a soccer player and gym enthusiast
 
 ## 👨🏻‍💻 Programming Languages
@@ -23,7 +23,7 @@ I currently live in **Bergamo**, working @ **HarnekInfo**, primarly developing i
 ## 💻 Framework and Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -33,13 +33,22 @@ I currently live in **Bergamo**, working @ **HarnekInfo**, primarly developing i
 ## 💾 Databases
 <p align="left">  
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ## ⚙️ IDE & Editors
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+</p>
+
+## 🧠 Other Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ## 💌 Contact Me
