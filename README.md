@@ -7,7 +7,7 @@ I currently live in **Bergamo**, working @ **HarnekInfo**, primarly developing i
 ## ✨ Current situation
 
 - 🔭 I’m currently working as Fullstack Developer at HarnekInfo (Italy)
-- 🌱 I’m currently learning Docker, C# and I'm deepening my knowledge of NextJS.
+- 🌱 I’m currently learning Phyton, C# and I'm deepening my knowledge of NextJS.
 - ⚽🏋🏻‍♂️ Sport fact: I am a soccer player and gym enthusiast
 
 ## 👨🏻‍💻 Programming Languages
