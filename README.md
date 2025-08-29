@@ -2,13 +2,15 @@
 # Hi, I'm Giuseppe 👋 💻 ⚽🏋🏻‍♂️
 
 I'm a **FullStack developer** and I'm passionate about **coding** and everything related.
-I currently live in **Bergamo**, working @ **HarnekInfo**, primarly developing in VB.NET, JS and SQL. I enjoy learning and understanding the full life cycle of coding.
+I currently live in **Bergamo**, working @ **HarnekInfo** and running [**NovaMarte Informatica**](https://www.novamarte.it).  
+Developing in VB.NET, NextJS, React and SQL. I enjoy learning and understanding the full life cycle of coding.
 
 ## ✨ Current situation
 
-- 🔭 I’m currently working as Fullstack Developer at HarnekInfo (Italy)
-- 🌱 I’m currently learning Phyton, C# and I'm deepening my knowledge of NextJS.
+- 🔭 I’m currently working as Fullstack Developer @ **NovaMarte Informatica** and **HarnekInfo** (Italy)
+- 🌱 I’m currently learning Phyton, C# and I'm deepening my knowledge all around.
 - ⚽🏋🏻‍♂️ Sport fact: I am a soccer player and gym enthusiast
+- 📕 Passionate about reading
 
 ## 👨🏻‍💻 Programming Languages
 <p align="left">
@@ -54,3 +56,4 @@ I currently live in **Bergamo**, working @ **HarnekInfo**, primarly developing i
 ## 💌 Contact Me
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/gmartinelli96)
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/giuseppe-martinelli)
+[<img alt="NovaMarte Informatica" src="https://img.shields.io/badge/NovaMarte%20Informatica-8b1e3f" />](https://novamarte.it)
